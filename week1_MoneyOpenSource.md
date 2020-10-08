@@ -22,16 +22,16 @@ Software as a Service (SaaS) is a model in which a third-party hosts the applica
 The OpenSaaS model takes advantage of the benefits of SaaS: flexibility, rapid deployment, and decreased costs (2). At the same time, the open-source codebase encourages collaborative effort and growth. To make money, companies often offer additional subscription plans with their products. These might include storage, backup, customization, etc.
 
 #### 2) Support ("Redhat Model")
-Companies using this model sell various services, such as tech support, certification, and training, to businesses deploying the product (2). Redhat is a well-known example due to its success. In 2016, the company announced a 2.5 billion dollar profit through yearly subscriptions and technical support.
+Companies using this model sell services, such as tech support, certification, and training, to businesses deploying the product (2). Redhat is a well-known example due to its success. In 2016, the company announced a 2.5 billion dollar profit through yearly subscriptions and technical support.
 
-However, the paid support model has a couple of notable flaws:
+However, the paid support model has notable flaws:
 1) support requires costly manual work
 2) scaling can be difficult
 3) the company has little incentive to make their project easy to use (1).
 The model is also inefficient, having an average conversion rate of 1%.
 
 #### 3) Dual (Restrictive) Licensing
-Companies may choose to release their software under a commercial license and a GNU General Public License (GPL). This means that end-users can run, redistribute, and modify the software, but they cannot create proprietary software with it and profit. Other licenses, such as AGPL and Commons Clause might be used in this model.
+Companies may choose to release their software under a commercial license and a GNU General Public License (GPL). This means that end-users can run, redistribute, and modify the software, but they cannot create proprietary software with it and profit. Other licenses, such as AGPL and Commons Clause might be used in place of or alongside GPL.
 
 Its main drawback is that having these licenses often turns off potential users (1). Specifically, many large companies have policies against using software with restrictive licensing.
 
