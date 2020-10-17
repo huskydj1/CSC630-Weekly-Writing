@@ -1,4 +1,4 @@
-# Week 2: Hacktoberfest
+# Hacktoberfest
 
 Hacktoberfest is a monthlong, annual event that DigitalOcean, an American cloud infrastructure provider, has held since 2014. Hosted by Github and organized by DigitalOcean, it has a simple premise: anyone who makes four valid pull requests within the month of October will receive a Hacktoberfest shirt. The event has garnered a lot of attention over the years, amassing 483,127 pull requests from participants in 2019.
 
