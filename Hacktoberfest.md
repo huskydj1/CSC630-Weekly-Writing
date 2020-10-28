@@ -1,4 +1,4 @@
-# Hacktoberfest
+# Week 2: Hacktoberfest
 
 Hacktoberfest is a monthlong, annual event that DigitalOcean, an American cloud infrastructure provider, has held since 2014. Hosted by Github and organized by DigitalOcean, it has a simple premise: anyone who makes four valid pull requests within the month of October will receive a Hacktoberfest shirt. The event has garnered a lot of attention over the years, amassing 483,127 pull requests from participants in 2019.
 
@@ -14,7 +14,10 @@ In response to the outrage, DigitalOcean released a [series of updates from Octo
 - implementing a banning system for users with many flagged pull requests
 - urging participants to read and abide by the rules
 
-Resources:
-- https://blog.domenic.me/hacktoberfest/
-- https://twitter.com/gravitystorm/likes
-- https://hacktoberfest.digitalocean.com/hacktoberfest-update
+It seems that these additions were appreciated by many repository maintainers. After a spree of tweets and retweets criticizing the handling of the event, blog author Andy Allan hasn't took to Twitter about the topic since those updates (2 weeks ago). The initial flood of tweets with the hashtag has also simmered down and DigitalOcean's [update announcement had a generally positive and supportive reception](https://twitter.com/hacktoberfest/status/1312221208667185153).
+
+To be clear, problematic pull requests haven't been eradicated completely. Maintainers are still dealing with requests that unnecessarily add words/characters ([1](https://twitter.com/emmalearnscode/status/1314946091943682051), [2](https://twitter.com/shpankus/status/1313637510560481280), [3](https://twitter.com/psuranas/status/1312425016487682054), [4](https://twitter.com/_abim_/status/1313478447252078593)) or arbitrarily change code syntax, such as converting between single-line and multi-line comments without practical reasoning ([1](https://twitter.com/ShivamJoker/status/1314783210836955142)). However, the issue seems to be much less prevalent than before. Because they can now bar spammers from the event or opt-out their repository from it whenever they want, maintainers seem to approach these pull requests with a more humorous attitude than before. A comparison between the tweets from the beginning of the event to the more recent ones (such as the ones linked in this paragraph) clearly illustrate this change in perception. For example, tweets with #shitoberfest are less frequent and have less anger directed towards the event. The problem with the original rules of Hacktoberfest was the maintainers' inability to fight against the flood of spam pull requests. Now, they have these capabilities.
+
+The decision to have event-associated repositories be opt-in was in line with the requests of developers like Andy Allan, and it seems to have alleviated the problems of Hacktoberfest: maintainers who don't want to be bothered by the event will simply not be. The requirement for event-related pull requests to be approved by maintainers is also helpful. It encourages users to make genuine contributions, as useless ones will most definitely not be approved by moderators, and it makes the process of denying offenders any event-credit much easier. These changes encapsulate the best of both worlds: the event still promotes open-source development but it also openly discourages and mitigates spammy pull requests. DigitalOcean's quick response time and effective solutions are highly commendable.
+
+I am not a maintainer of a repository, nor am I participant of Hacktoberfest, so my experience and knowledge in this matter is limited. However, based on maintainers' feedback, DigitalOcean's updates seem to have reduced the initially-observed flood of spam into a trickle. It will be interesting to see the statistics after the event is over and observe how impactful the updates actually were.
