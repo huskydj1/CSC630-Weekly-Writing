@@ -36,3 +36,6 @@ Section for "Hall of Fame" + Contributing Guide: https://github.com/iterative/dv
 ### Resources
 - https://github.com/matiassingers/awesome-readme
 - https://www.makeareadme.com/
+
+To look further into:
+https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991
